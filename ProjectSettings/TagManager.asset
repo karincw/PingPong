@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AgentBar
+  - Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BG
+  - Obstacle
+  - Border
+  - Ball
+  - Agent
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1833528959
+    locked: 0
+  - name: Obstacle
+    uniqueID: 81750209
+    locked: 0
+  - name: Item
+    uniqueID: 2032637229
+    locked: 0
+  - name: Ball
+    uniqueID: 1715268427
+    locked: 0
+  - name: Agent
+    uniqueID: 442214005
+    locked: 0
+  - name: UI
+    uniqueID: 2536605187
+    locked: 0
